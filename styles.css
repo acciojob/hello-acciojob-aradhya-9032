@@ -1,11 +1,12 @@
 
-/* Your CSS Code here. */
-.Accio
+ /* Your CSS Code here */
+ .Accio
 {
-	width: 150px;
-	heigth: 150px;
-	background-color: black
+background-color:black;
+	height:150px;
+	weight:150px;
 }
+
 p.hello-accio-job
 {
   color:white;
